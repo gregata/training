@@ -3,3 +3,5 @@
 ################################################################################
 
 /.vs/MyConsoleApp/v15
+/MyConsoleApp/bin/Debug/netcoreapp2.0
+/MyConsoleApp/obj
