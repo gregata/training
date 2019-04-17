@@ -36,7 +36,7 @@ namespace MyConsoleApp
                 {
                     newminimo = arreglo[i];
                     arreglo[i] = arreglo[i - 1];
-                    arreglo[i - 1] = newminimo;
+                    arreglo[i - 1] = newminimo;// PRUEBA DE VERSION 
                     i = 0;
                 }
                 else
