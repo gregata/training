@@ -36,7 +36,7 @@ namespace MyConsoleApp
                 {
                     newminimo = arreglo[i];
                     arreglo[i] = arreglo[i - 1];
-                    arreglo[i - 1] = newminimo;// PRUEBA DE VERSION 
+                    arreglo[i - 1] = newminimo;// PRUEBA DE VERSION 3
                     i = 0;
                 }
                 else
@@ -48,7 +48,7 @@ namespace MyConsoleApp
             return arreglo;
         }
 
-        static private int[] FirstSortingFunctionFIXED(int[] arreglo)
+        static private int[] FirstSortingFunctionFIXED(int[] arreglo) 
         {
             int i = 1;
             int newminimo;
