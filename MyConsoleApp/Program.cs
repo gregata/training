@@ -67,7 +67,7 @@ namespace MyConsoleApp
                 }
             }
 
-            return arreglo;
+            return arreglo;// eqeqwewqeqwewqeqwe
         }
 
     }
